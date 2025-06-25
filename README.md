@@ -8,4 +8,4 @@ A website which i use to sharpen my skill in HTML, CSS, and little bit of JS, th
 ![image url](https://github.com/d4a-arka/fantastic-beast/blob/e472b1dabc55eefdd06fa32da649987b492f5fc5/FB%20%235.png)
 ![image url](https://github.com/d4a-arka/fantastic-beast/blob/ef57756299c0436b963431b8b2379ec266ba3208/FB%20%236.png)
 ![image url](https://github.com/d4a-arka/fantastic-beast/blob/91308232523e3ca1bd10ba66fabe602e636c8a6e/FB%20%237.png)
-![image url]()
+![image url](https://github.com/d4a-arka/fantastic-beast/blob/5fb733164ed543f296b4a76b3a2efe6886a4b3fc/FB%20%238.png)
